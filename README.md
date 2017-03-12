@@ -1,0 +1,2 @@
+# VSCode
+UnityProjects And VSCodeProjects
